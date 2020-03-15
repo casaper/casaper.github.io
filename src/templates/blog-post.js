@@ -41,8 +41,20 @@ const Separator = styled.hr`
 const PostContent = styled.section``
 
 const GlobalStyle = createGlobalStyle`
-  .gatsby-resp-image-background-image {
-    margin-bottom: 1rem;
+  .post-content ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+  }
+
+  .post-content ul li {
+    flex: 0 0 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 2;
   }
 `
 

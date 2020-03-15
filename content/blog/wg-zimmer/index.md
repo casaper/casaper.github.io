@@ -4,7 +4,7 @@ date: 2020-03-15T19:00:00.000Z
 description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 1. Mai zu vergeben.
 ---
 
-# WG-Heini 255 - In Zürich - Kreis 5
+### [Heinrichstrasse 255 — nahe Escher-Wyss-Platz](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
 Da unsere aktuelle Mitbewohnerin auswandert, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
 
@@ -17,15 +17,14 @@ Da unsere aktuelle Mitbewohnerin auswandert, suchen wir eine Mitbewohnerin oder 
 ### Zimmer
 
 - Fläche: 25m²
-
 - Badezimmer geteilt mit einem Mitbewohner
 
 ### Ganze Wohnung
 
 - Fläche: 177m²
 - 5½ Zimmer
-- Maisonett (2 Stockwerke) |4. + 5. Stock
-- Balkon — sehr zentrale Lage (Escher-Wyss Platz, Hardbrücke), trotzdem verhältnismässig ruhig
+- Maisonett (2 Stockwerke) | 4. und 5. Stock | Eingang im 5. Stock
+- sehr zentrale Lage (Escher-Wyss-Platz, Hardbrücke), trotzdem verhältnismässig ruhig
 - ganze Wohnung ausser Küche und Bäder Parkettböden mit Bodenheizung
 - eigene Waschmaschine und Tumbler
 - grosszügige Wohnküche mit Geschirrspüler
@@ -44,14 +43,12 @@ Wir haben eine Reinigungskraft die uns alle 14 Tage die Grundreinigung macht. Se
 - **Miete**: CHF 1200.- Monat
 - **Reinigungskraft**: ca. CHF 120.-/Monat
 - Internet CHF 259.- im Jahr | Glasfaser 1 GB/1 GB | Wi-Fi Infrastruktur ist vorhanden
-- Normale jährlich anfallende Nebenkosten wie Elektrizität und dergleichen (normalerweise nur sehr kleine Beträge einmal pro Jahr)
+- Normale jährlich anfallende Nebenkosten wie Elektrizität und dergleichen (vergleichsweise kleine Beträge einmal pro Jahr, im üblichen Rahmen)
 - 2 Monate Miet-Pfand
 
 ### Möbel vom Vormieter
 
-Dein Vormieter möchte dir vorzugsweise sein Mobiliar zu fairen Konditionen überlassen.
-
-Vermutlich zirka CHF 1200.-
+Deine Vormieterin möchte dir vorzugsweise ihr Mobiliar zu fairen Konditionen überlassen.
 
 ## Wir sind
 
@@ -76,16 +73,16 @@ Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gl
 
 ### Zimmer
 
-![Zimmer - Von der Tuer](zimmer-01.jpg)
-![Zimmer - 2](zimmer-02.jpg)
-![Zimmer - 3](zimmer-03.jpg)
-![Zimmer - 4](zimmer-04.jpg)
+![Zimmer - Von der Tür (4. Stock)](zimmer-01.jpg)
+![Zimmer — 2](zimmer-02.jpg)
+![Zimmer — 3](zimmer-03.jpg)
+![Zimmer — 4](zimmer-04.jpg)
 
-### Zimmer
+### Die Wohnung
 
-![Wohnung - Zimmer tuere rechts](wohunung-01.jpg)
-![Wohnung - 2](wohunung-02.jpg)
-![Wohnung - 3](wohunung-03.jpg)
-![Wohnung - 4](wohunung-04.jpg)
+![Wohnung — Rechte Tür ist dein Zimmer (4. Stock)](wohunung-01.jpg)
+![Wohnung — Andere Richtung, mit blick ins Gästezimmer (4. Stock)](wohunung-02.jpg)
+![Wohnung — Wohnküche mit Balkon (5. Stock)](wohunung-03.jpg)
+![Wohnung — Wohnhimmer von der Eingangstür (5. Stock)](wohunung-04.jpg)
 
 ---
