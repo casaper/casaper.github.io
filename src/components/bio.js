@@ -9,14 +9,35 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import { rhythm } from "../utils/typography"
+import styled from "styled-components"
+
+const Wrap = styled.div`
+  display: flex;
+  margin-bottom: 4.3rem;
+`
+
+const BioImage = styled(Image)`
+  margin-bottom: 0;
+  margin-right: 0.875rem;
+  min-width: ${p => p.size}px;
+  bordder-radius: 100%;
+`
 
 const Bio = () => {
-  const data = useStaticQuery(graphql`
+  const {
+    avatar: {
+      childImageSharp: { fixed },
+    },
+    site: {
+      siteMetadata: {
+        author: { name, summary },
+      },
+    },
+  } = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/me.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 70, height: 70) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -27,43 +48,31 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
+    <Wrap>
+      <BioImage
+        fixed={fixed}
+        alt={name}
+        size={70}
         imgStyle={{
           borderRadius: `50%`,
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+        <em>
+          Written by <strong>{name}</strong>
+        </em>
+        <br />
+        <small>
+          <em>{summary}</em>
+        </small>
       </p>
-    </div>
+    </Wrap>
   )
 }
 

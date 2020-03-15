@@ -1,71 +1,48 @@
 import React from "react"
 import { Link } from "gatsby"
+import styled, { css } from "styled-components"
 
-import { rhythm, scale } from "../utils/typography"
+import Footer from "./footer"
+
+const MainHeading = styled.h1`
+  margin-top: 0;
+  ${props =>
+    props.root
+      ? css`
+          font-size: 4rem;
+          line-height: 1.1;
+          margin-bottom: 2.6rem;
+        `
+      : css`
+          font-size: 2rem;
+          font-family: Montserrat, sans-serif;
+        `}
+`
+
+const HeadingLink = styled(Link)`
+  box-shadow: none;
+  text-decoration: none;
+  color: inherit;
+`
+
+const Container = styled.div`
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 2.6rem 1.3rem;
+`
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
-  let header
-
-  if (location.pathname === rootPath) {
-    header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h1>
-    )
-  } else {
-    header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h3>
-    )
-  }
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-      }}
-    >
-      <header>{header}</header>
+    <Container>
+      <header>
+        <MainHeading root={location.pathname === rootPath}>
+          <HeadingLink to={"/"}>{title}</HeadingLink>
+        </MainHeading>
+      </header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
-    </div>
+      <Footer />
+    </Container>
   )
 }
 

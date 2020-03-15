@@ -1,11 +1,13 @@
+const title = `Casaper's Dump`
+
 module.exports = {
   siteMetadata: {
-    title: `Casaper's Brain-Fuck-Dump`,
+    title,
     author: {
-      name: `Kaspar Vollenweider`,
+      name: `Casaper`,
       summary: `Another silly dev that may never get arround to update his "blog".`,
     },
-    description: `A personal Brain-Fuck-Dump to be read at your own risk and painful experience.`,
+    description: `A personal brain (fuck) dump to be read at your own risk and painful experience.`,
     siteUrl: `https://casaper.github.io/`,
     social: {
       twitter: `casaper`,
@@ -60,7 +62,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: title,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
@@ -79,5 +81,11 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        displayName: false,
+      },
+    },
   ],
 }

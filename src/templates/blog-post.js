@@ -1,84 +1,14 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
+import styled, { createGlobalStyle } from "styled-components"
 
-const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
-
-  return (
-    <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
-      <article>
-        <header>
-          <h1
-            style={{
-              marginTop: rhythm(1),
-              marginBottom: 0,
-            }}
-          >
-            {post.frontmatter.title}
-          </h1>
-          <p
-            style={{
-              ...scale(-1 / 5),
-              display: `block`,
-              marginBottom: rhythm(1),
-            }}
-          >
-            {post.frontmatter.date}
-          </p>
-        </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-        <footer>
-          <Bio />
-        </footer>
-      </article>
-
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
-    </Layout>
-  )
-}
-
-export default BlogPostTemplate
+import PostBottomNav from "./post-bottom-nav"
+import PostDate from "../components/post-date"
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
@@ -99,3 +29,57 @@ export const pageQuery = graphql`
     }
   }
 `
+
+const PostTitle = styled.h1`
+  margin-bottom: 0;
+`
+
+const Separator = styled.hr`
+  margin-bottom: ${rhythm(1)};
+`
+
+const PostContent = styled.section``
+
+const GlobalStyle = createGlobalStyle`
+  .gatsby-resp-image-background-image {
+    margin-bottom: 1rem;
+  }
+`
+
+const BlogPostTemplate = ({
+  data: {
+    markdownRemark: {
+      frontmatter: { title, date, description },
+      excerpt,
+      html,
+    },
+    site: {
+      siteMetadata: { title: siteTitle },
+    },
+  },
+  pageContext: { previous, next },
+  location,
+}) => (
+  <Layout location={location} title={siteTitle}>
+    <GlobalStyle />
+    <SEO title={title} description={description || excerpt} />
+    <article>
+      <header>
+        <PostTitle>{title}</PostTitle>
+        <PostDate date={date} />
+      </header>
+      <PostContent
+        className="post-content"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
+      <Separator />
+      <footer>
+        <Bio />
+      </footer>
+    </article>
+
+    <PostBottomNav {...{ previous, next }} />
+  </Layout>
+)
+
+export default BlogPostTemplate

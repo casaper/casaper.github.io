@@ -19,6 +19,7 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                date
               }
             }
           }
@@ -31,12 +32,15 @@ exports.createPages = async ({ graphql, actions }) => {
     throw result.errors
   }
 
+  console.log(result)
   // Create blog posts pages.
   const posts = result.data.allMarkdownRemark.edges
 
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
+
+    console.log(posts)
 
     createPage({
       path: post.node.fields.slug,
