@@ -1,6 +1,7 @@
 const title = `Casaper's Dump`
 
 module.exports = {
+  pathPrefix: "/",
   siteMetadata: {
     title,
     author: {
