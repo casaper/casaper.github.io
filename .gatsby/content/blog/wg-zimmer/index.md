@@ -71,6 +71,10 @@ Das die Putzfrau alle 14 Tage nicht 100 % der Reinigung erledigen kann ist dir k
 
 Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gleich ein, wenn deine Mitbewohner mal nicht präsent sind (wir arbeiten viel, und sehr viel, um noch ein bisschen drauf herum zu reiten).
 
+### Kontakt
+
+<a href="mailto:vollenweider+wgzimmer@gmail.com">vollenweider+wgzimmer@gmail.com</a>
+
 ### Bilder
 
 #### Zimmer
