@@ -1,31 +1,35 @@
 ---
-title: WG-Zimmer ab 1. Mai 2020
-date: 2020-03-15T19:00:00.000Z
+title: WG-Zimmer ab sofort spätestens 1. Mai
+date: 2020-03-24T15:30:00.000Z
 description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 1. Mai zu vergeben.
 ---
 
 ### [Heinrichstrasse 255 — nahe Escher-Wyss-Platz](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
+**Es hat sich überraschend ergeben, dass unsere Mitbewohnerin schon heute ausgezogen ist.**
+
+Daher nun ab sofort oder spätestens 1. Mai
+
 Da unsere aktuelle Mitbewohnerin auswandert, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
 
-**Wann**: 1. Mai 2020  
-**Wo**: [Heinrichstrasse 255 - Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
+**Wann**: ~~1. Mai 2020~~ **ab sofort oder spätestens 1. Mai**  
+**Wo**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
 **Miete**: CHF 1200.-/Monat
 
-### Die Wohnung / Das Zimmer
+### Die Wohnung / das Zimmer
 
 #### Zimmer
 
-- **Fläche**: 25m²
+- **Fläche**: 25 m²
 - Badezimmer geteilt mit einem Mitbewohner
 
-Das WG Zimmer ist unmöbliert - einzelne Möbelstücke können von der Vormieterin übernommen werden.
+Das WG Zimmer ist unmöbliert – einzelne Möbelstücke können von der Vormieterin übernommen werden.
 
 [Bilder des Zimmers](#zimmer-1)
 
 #### Ganze Wohnung
 
-- **Fläche**: 177m²
+- **Fläche**: 177 m²
 - 5½ Zimmer
 - Maisonett (2 Stockwerke) | 4. und 5. Stock | Eingang im 5. Stock
 - sehr zentrale Lage (Escher-Wyss-Platz, Hardbrücke), trotzdem verhältnismässig ruhig
@@ -58,7 +62,7 @@ Fabian (30 J), Chemiker
 
 Kaspar (39 J), Programmierer
 
-Wir arbeiten viel, _der eine sogar extrem viel_ (macht phd in Chemie…).
+Wir arbeiten viel, _der eine sogar extrem viel_ (macht phd in Chemie …).
 
 Wir sind also nicht konstant auf plan und präsent für Aktivitäten. Solltest du also die grosse Party WG suchen, können wir dir sehr nur bedingt weiter helfen.
 Unsere etwas atypischen Tagesabläufe machen gemeinsame Esskultur auch etwas schwierig. Ich (Kaspar) wäre aber gerne bereit sporadisch einen kleinen Kulturwandel zu machen (sprich mal was zusammen zu kochen & essen).
@@ -67,9 +71,9 @@ Unsere etwas atypischen Tagesabläufe machen gemeinsame Esskultur auch etwas sch
 
 Du befindest dich irgendwo Handgelenk mal Pi Spektrum unseres Alters.
 
-Das die Putzfrau alle 14 Tage nicht 100 % der Reinigung erledigen kann ist dir klar, darum bist du in der Lage ohne Putzplan und Tätersuche auch mal unkompliziert ein Malheur aus deinem Weg zu schaffen. ;-)
+Das die Reinigungskraft alle 14 Tage nicht 100 % der Reinigung erledigen kann ist dir klar, darum bist du in der Lage ohne Putzplan und Tätersuche auch mal unkompliziert ein Malheur aus deinem Weg zu schaffen. ;-)
 
-Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gleich ein, wenn deine Mitbewohner mal nicht präsent sind (wir arbeiten viel, und sehr viel, um noch ein bisschen drauf herum zu reiten).
+Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gleich ein, wenn deine Mitbewohner mal nicht präsent sind (wir arbeiten viel, und sehr viel, um noch ein bisschen drauf herumzureiten).
 
 ### Kontakt
 
@@ -79,7 +83,7 @@ Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gl
 
 #### Zimmer
 
-![Zimmer - Von der Tür (4. Stock)](zimmer-01.jpg)
+![Zimmer – Von der Tür (4. Stock)](zimmer-01.jpg)
 ![Zimmer — 2](zimmer-02.jpg)
 ![Zimmer — 3](zimmer-03.jpg)
 ![Zimmer — 4](zimmer-04.jpg)
@@ -89,4 +93,4 @@ Du bist gerne für einen Schwatz oder anderes zu haben, gehst aber auch nicht gl
 ![Wohnung — Rechte Tür ist dein Zimmer (4. Stock)](wohunung-01.jpg)
 ![Wohnung — Andere Richtung, mit blick ins Gästezimmer (4. Stock)](wohunung-02.jpg)
 ![Wohnung — Wohnküche mit Balkon (5. Stock)](wohunung-03.jpg)
-![Wohnung — Wohnhimmer von der Eingangstür (5. Stock)](wohunung-04.jpg)
+![Wohnung — Wohnzimmer von der Eingangstür (5. Stock)](wohunung-04.jpg)
