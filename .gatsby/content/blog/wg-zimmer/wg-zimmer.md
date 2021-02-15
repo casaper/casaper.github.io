@@ -6,10 +6,8 @@ description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 
 
 ### [Heinrichstrasse 255 — nahe Escher-Wyss-Platz](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
-**Es hat sich überraschend ergeben, dass unsere Mitbewohnerin schon heute ausgezogen ist.**
 
-
-Da unser aktueller Mitbewohner auswandert, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
+Da unser aktueller Mitbewohner weiter zieht, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
 
 **Wann**: 1. April 2021 **ab sofort oder spätestens 1. Mai**  
 **Wo**: [Heinrichstrasse 255 — Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
