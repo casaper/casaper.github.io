@@ -62,7 +62,7 @@ Kaspar (40 J), Programmierer
 Wir arbeiten viel, _der eine sogar extrem viel_ (macht phd in Chemie …).
 
 Wir sind also nicht konstant auf plan und präsent für Aktivitäten. Solltest du also die grosse Party WG suchen, können wir dir sehr nur bedingt weiter helfen.
-Unsere etwas atypischen Tagesabläufe machen gemeinsame Esskultur auch etwas schwierig. Ich (Kaspar) wäre aber gerne bereit sporadisch einen kleinen Kulturwandel zu machen (sprich mal was zusammen zu kochen & essen).
+Unsere etwas atypischen Tagesabläufe machen gemeinsame Esskultur auch etwas schwierig. Ich (Kaspar) wäre aber gerne bereit sporadisch einen kleinen Kulturwandel zu machen (sprich mal was zusammen zu kochen & essen). Das bedingt allerdings das du das in einem sehr Programmierer typischen zeitkonzept machen willst (eher nachts, eher *sicher* nicht am morgen) ;-)
 
 ### Wir suchen
 
