@@ -1,5 +1,5 @@
 ---
-title: WG-Zimmer ab sofort spätestens 1. Mai
+title: WG-Zimmer ab 1. April 2021
 date: 2021-02-15T20:30:00.000Z
 description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 1. April zu vergeben.
 ---
