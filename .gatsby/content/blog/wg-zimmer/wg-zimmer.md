@@ -9,7 +9,7 @@ description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 
 
 Da unser aktueller Mitbewohner weiter zieht, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
 
-**Wann**: 1. April 2021 **ab sofort oder spätestens 1. Mai**  
+**Wann**: 1. April 2021 
 **Wo**: [Heinrichstrasse 255 — Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
 **Miete**: CHF 1200.-/Monat
 
@@ -50,7 +50,7 @@ Wir haben eine Reinigungskraft die uns alle 14 Tage die Grundreinigung macht. Se
 - **Miete**: CHF 1200.- Monat
 - **Reinigungskraft**: ca. CHF 120.-/Monat
 - Internet CHF 259.- im Jahr | Glasfaser 1 GB/1 GB | Wi-Fi Infrastruktur ist vorhanden
-- Normale jährlich anfallende Nebenkosten wie Elektrizität und dergleichen (vergleichsweise kleine Beträge einmal pro Jahr, im üblichen Rahmen)
+- Normale jährlich anfallende Nebenkosten wie Elektrizität, Serafe und dergleichen (vergleichsweise kleine Beträge einmal pro Jahr, im üblichen Rahmen)
 - 2 Monate Miet-Pfand
 
 ### Wir sind
