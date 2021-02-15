@@ -1,19 +1,18 @@
 ---
 title: WG-Zimmer ab sofort spätestens 1. Mai
-date: 2020-03-24T15:30:00.000Z
-description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 1. Mai zu vergeben.
+date: 2021-02-15T20:30:00.000Z
+description: WG-Zimmer Heinrichstrasse 255, Zürich, nähe Escher-Wyss-Platz ab 1. April zu vergeben.
 ---
 
 ### [Heinrichstrasse 255 — nahe Escher-Wyss-Platz](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
 **Es hat sich überraschend ergeben, dass unsere Mitbewohnerin schon heute ausgezogen ist.**
 
-Daher nun ab sofort oder spätestens 1. Mai
 
-Da unsere aktuelle Mitbewohnerin auswandert, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
+Da unser aktueller Mitbewohner auswandert, suchen wir eine Mitbewohnerin oder einen Mitbewohner.
 
-**Wann**: ~~1. Mai 2020~~ **ab sofort oder spätestens 1. Mai**  
-**Wo**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
+**Wann**: 1. April 2021 **ab sofort oder spätestens 1. Mai**  
+**Wo**: [Heinrichstrasse 255 — Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
 **Miete**: CHF 1200.-/Monat
 
 ### Die Wohnung / das Zimmer
@@ -23,7 +22,7 @@ Da unsere aktuelle Mitbewohnerin auswandert, suchen wir eine Mitbewohnerin oder 
 - **Fläche**: 25 m²
 - Badezimmer geteilt mit einem Mitbewohner
 
-Das WG Zimmer ist unmöbliert – einzelne Möbelstücke können von der Vormieterin übernommen werden.
+Das WG Zimmer ist unmöbliert.
 
 [Bilder des Zimmers](#zimmer-1)
 
@@ -58,9 +57,9 @@ Wir haben eine Reinigungskraft die uns alle 14 Tage die Grundreinigung macht. Se
 
 ### Wir sind
 
-Fabian (30 J), Chemiker
+Fabian (31 J), Chemiker
 
-Kaspar (39 J), Programmierer
+Kaspar (40 J), Programmierer
 
 Wir arbeiten viel, _der eine sogar extrem viel_ (macht phd in Chemie …).
 
